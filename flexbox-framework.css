@@ -15,19 +15,19 @@ The second and third parameters (flex-shrink and flex-basis) are optional. Defau
 }
 .flex1 {
   flex: 1;
-  -webkit-flex: 0;
+  -webkit-flex: 1;
 }
 .flex2 {
   flex: 2;
-  -webkit-flex: 0;
+  -webkit-flex: 2;
 }
 .flex3 {
   flex: 3;
-  -webkit-flex: 0;
+  -webkit-flex: 3;
 }
 .flex4 {
   flex: 4;
-  -webkit-flex: 0;
+  -webkit-flex: 4;
 }
 
 /* This establishes the main-axis, thus defining the direction flex items are placed in the flex container.
